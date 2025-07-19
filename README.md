@@ -13,4 +13,6 @@
     <img alt="NodeJS" width="30px" src="icons/icon-node-js-new.svg" />
     &nbsp;
     <img alt="SonarQube" width="30px" src="icons/icon-sonarqube-new.svg" />
+    &nbsp;
+    <img alt="SonarQube" width="30px" src="icons/icon-sonarq.svg" />
 </p>
